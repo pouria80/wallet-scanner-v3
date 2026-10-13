@@ -318,7 +318,7 @@ class Scanner:
 
     @staticmethod
     def _append_hit(rec: dict) -> None:
-        header = "# ولت‌های دارای موجودی — یافت‌شده توسط Wallet Scanner V3\n"
+        header = "# ولت‌های دارای موجودی — یافت‌شده توسط Wallet Scanner V3.1\n"
         line = (f"{rec['found_at']} | seed={rec['seed']} | "
                 f"{rec['eth']:.18f} ETH | {rec['usdt']:.6f} USDT | "
                 f"{rec['usdc']:.6f} USDC | {rec['address']}\n"
