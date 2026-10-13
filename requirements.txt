@@ -1,2 +1,1 @@
-coincurve>=18.0
-pycryptodome>=3.18
+Y29pbmN1cnZlPj0xOC4wCnB5Y3J5cHRvZG9tZT49My4xOAo=
